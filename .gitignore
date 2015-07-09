@@ -1,3 +1,8 @@
 node_modules
 npm-debug.log
 bin/npm-debug.log
+<<<<<<< HEAD
+=======
+quiz.sqlite
+.env
+>>>>>>> origin/busquedas
